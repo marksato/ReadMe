@@ -1,14 +1,9 @@
 # ReadMe
 
-First read me
+## 1. Print HelloWorld
+    Simple output text.
 
-いま、まさに始まった。
+## 1. Sprit text
+    Input text "ABCD".
+    Output text "[A],[B],[C],[D]".
 
-13/5/2020
-
-1. open selemony
-1. speech
-1. qan
-1. session
-1. food cort
-1. end
